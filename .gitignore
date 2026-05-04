@@ -2,7 +2,6 @@
 dataset/
 
 # Model weights
-*.pt
 *.pth
 
 # Results and logs
